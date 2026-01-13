@@ -1,1 +1,1 @@
-# Computer Vision Coursework
+# Cifar-10 Classifier Coursework (Computer Vision)
